@@ -1,4 +1,4 @@
-# CV.lv job scraping script
+# CV.lv jobs scraping
 
 This script may be useful for people who are looking for entry-level positions in the IT industry.
 
